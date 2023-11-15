@@ -25,7 +25,7 @@ function intro {
 
     echo $BAR
     center_text 
-    center_text "--==[ PROCESS ROULETTE ]==--"
+    center_text "--==[ file ROULETTE ]==--"
     center_text 
     center_text "This game randomly deletes files on your computer"
     center_text "Other users' files are worth more points"
